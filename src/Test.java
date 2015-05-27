@@ -1,7 +1,7 @@
 class Test {
 	public static final ( String args[] ) |
 
-		System.out.println("ƒeƒXƒg" );
+		System.out.println("ç”°ä¸­" );
 
 	}
 }
